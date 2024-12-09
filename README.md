@@ -1,4 +1,4 @@
-<h3 align="center">Analista de Sistemas con una sólida pasión por la tecnología y la innovación. Constantemente en búsqueda de nuevos conocimientos combinando el aprendizaje autodidacta con la formación académica</h3>
+<p align="center">Analista de Sistemas con una sólida pasión por la tecnología y la innovación. Constantemente en búsqueda de nuevos conocimientos combinando el aprendizaje autodidacta con la formación académica</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
